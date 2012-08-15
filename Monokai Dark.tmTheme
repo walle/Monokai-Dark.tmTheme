@@ -85,8 +85,8 @@
             <string>variable</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string></string>
+                <key>foreground</key>
+                <string>#FFb800</string>
             </dict>
         </dict>
         <dict>
